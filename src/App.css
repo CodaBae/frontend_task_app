@@ -1,0 +1,25 @@
+h1{
+  color: #007FDB;
+  font-size: 5rem;
+}
+
+
+
+input{
+  width: 883px;
+height: 57px;
+padding: 10px, 12px, 10px, 12px;
+border-radius: 5px;
+gap: 10px;
+}
+
+button{
+width: 88px;
+height: 57px;
+padding: 10px;
+border-radius: 5px;
+background-color: #20EEB0;
+color: #ffffff;
+font-size: 2rem;
+
+}
